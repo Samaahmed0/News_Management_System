@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Sama\source\repos\n2plz\NewsManagementSystem\main.cpp(34,11): warning C4101: 'admin': unreferenced local variable
+C:\Users\Sama\source\repos\n2plz\NewsManagementSystem\main.cpp(203,15): warning C4101: 'rate': unreferenced local variable
+  News.cpp
+C:\Users\Sama\source\repos\n2plz\NewsManagementSystem\News.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sama\source\repos\n2plz\NewsManagementSystem\News.cpp(193,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Sama\source\repos\n2plz\NewsManagementSystem\News.cpp(474,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sama\source\repos\n2plz\NewsManagementSystem\News.cpp(547,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  NewsManagementSystem.vcxproj -> C:\Users\Sama\source\repos\n2plz\x64\Debug\NewsManagementSystem.exe
