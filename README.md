@@ -7,5 +7,5 @@ A C++ program that allows users to **view, filter, and rate news** while ensurin
 - **News Filtering**  
 - **News Rating System**
 
-## 🛠️ Suitable data structures have been applied for efficient management of user authentication, news categorization, and rating filtering.  
+ 🛠️ Suitable data structures have been applied for efficient management of user authentication, news categorization, and rating filtering.  
 
